@@ -7,6 +7,6 @@ public class Test1 {
 	public static void add (int x, int y)
 	{
 		int z= x+y;
-		System.out.println(:sum" +z);
+		System.out.println("sum" +z);
 	}
 }
